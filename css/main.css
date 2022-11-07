@@ -220,6 +220,7 @@ li {
 }
 
 #features {
+  padding-bottom: 100px;
   background-color: #222222;
 }
 #features .start__title {
